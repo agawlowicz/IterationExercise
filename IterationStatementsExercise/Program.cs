@@ -16,7 +16,7 @@ namespace IterationStatementsExercise
                 Console.WriteLine($"{i}");
             }
 
-            for (int i = 0; i < 5; i++):
+            for (int i = 0; i < 5; i++)
             {
                 Console.WriteLine($"{i}");
             }
